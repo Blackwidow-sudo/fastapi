@@ -8,11 +8,11 @@ Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
-Start the server
+Start the server:
 ```sh
 uvicorn app.main:app --reload
 ```
 
 ## Info
 
-Please write your code [PEP 8](https://peps.python.org/pep-0008) compliant.
+Please keep your code [PEP 8](https://peps.python.org/pep-0008) compliant.
